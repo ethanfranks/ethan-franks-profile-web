@@ -9,6 +9,7 @@ This is a single-page application built with Vite, TypeScript, and Preact. The w
 - **Vite** for fast development and optimized builds.
 - **TypeScript** for type-safe JavaScript.
 - **Preact** for a lightweight and efficient UI.
+- **Tailwind CSS** for rapid and customizable styling, enabling a utility-first approach to design.
 - Responsive design to ensure compatibility across various devices.
 - Scrollytelling for an engaging user experience.
 - Minimal data fetching to optimize performance and load speed.
